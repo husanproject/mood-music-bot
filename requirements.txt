@@ -1,0 +1,4 @@
+aiogram==3.13.1
+openai==1.51.0
+yt-dlp==2024.10.22
+ffmpeg-python
