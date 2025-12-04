@@ -1,13 +1,1 @@
-{
-  "build": {
-    "builder": "paketobuildpacks/builder:base",
-    "buildpacks": [
-      {
-        "uri": "heroku/python"
-      },
-      {
-        "uri": "heroku/ffmpeg"
-      }
-    ]
-  }
-}
+
