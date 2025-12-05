@@ -1,0 +1,4 @@
+name: mood-music-bot
+type: python
+requirements: requirements.txt
+start: python main.py
